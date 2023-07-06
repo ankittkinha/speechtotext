@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right, #304352, #d7d2cc);
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-size: 4em;
+}
+
+.speechText{
+    display: block;
+    margin: auto;
+    border: none;
+    padding: 0.3% 0.5% 0.3% 0.5%;
+    font-size: 2em;
+    resize: none;
+}
+
+.btn{
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    height: 2em;
+    width: 9em;
+    font-size: 2em;
+    border-radius: 4%;
+    background-color: #3b9be4;
+    color: white;
+}
+
+.words{
+    font-size: 4em;
+    text-align: center;
+    background-color: white;
+    margin: 0 5em 0 5em;
+}
+
+p{
+    border-bottom: 1px solid gray;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+    padding-bottom: 0.2em;
+}
