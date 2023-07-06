@@ -30,15 +30,21 @@ body{
 }
 
 .words{
-    font-size: 4em;
-    text-align: center;
+    display: none;
+    font-size: 2em;
+    text-align: start;
     background-color: white;
+    padding: 0.5em 1em 0.5em 1em;
     margin: 0 5em 0 5em;
+}
+
+.showDisplay{
+    display: block;
 }
 
 p{
     border-bottom: 1px solid gray;
     margin-top: 0;
     margin-bottom: 0.2em;
-    padding-bottom: 0.2em;
+    padding-bottom:  0 0.5em 0.5em 0.5em;
 }
